@@ -1,0 +1,28 @@
+name: MusicAndPictures
+favicon: null
+layout_spectrum: 0.054297871654853225
+typography_spectrum: 0.9586383907590061
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.17554489965550601
+  lightness: 0.19782223901711404
+  saturation: 0.6517020019236952
+  rhythmicContrast: 0.9822507335338742
+purpose: []
